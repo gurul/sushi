@@ -24,13 +24,15 @@
     font-family: var(--playfair-display);
     text-transform: uppercase;
     line-height: 20px;
+    font-size: 24px;
+    font-weight: 800;
 }
 
 .header__menu,
 .header__menu-mobile {
   padding: 20px;
 
-  flex: 1.235;
+  flex: 1.245;
   display: flex;
   justify-content: flex-end;
   align-items: center;
